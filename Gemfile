@@ -15,6 +15,7 @@ gem 'uglifier'
 gem 'jquery-rails'
 
 gem 'therubyracer'
+gem 'sprockets', '2.0.0.beta10'
 
 # Use unicorn as the web server
 # gem 'unicorn'
